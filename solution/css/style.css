@@ -17,7 +17,7 @@ p {
 
 h1 {
 	text-align: center;
-	font-size: 50px;
+	font-size: 1.75em;
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
@@ -30,7 +30,7 @@ h3 {
 	border-bottom: 1px solid black;
 	width: 25%;
 	float: right;
-	font-size: 16px;
+	font-size: 1.25em;
 	margin-top: 0;
 	padding: 2px;
 
@@ -81,7 +81,7 @@ p {
 
 h1 {
 	text-align: center;
-	font-size: 50px;
+	font-size: 1.75em;
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
@@ -94,7 +94,7 @@ h3 {
 	border-bottom: 1px solid black;
 	width: 25%;
 	float: right;
-	font-size: 16px;
+	font-size: 1.25em;
 	margin-top: 0;
 	padding: 2px;
 
@@ -125,6 +125,7 @@ section {
 	margin: 0 auto;
 	margin-top: 20px;
 	margin-left: 0;
+	margin-bottom: 20px;
 }
 
 }
@@ -150,7 +151,7 @@ p {
 
 h1 {
 	text-align: center;
-	font-size: 50px;
+	font-size: 1.75em;
 	margin-top: 25px;
 	margin-bottom: 25px;
 }
@@ -163,7 +164,7 @@ h3 {
 	border-bottom: 1px solid black;
 	width: 25%;
 	float: right;
-	font-size: 16px;
+	font-size: 1.25em;
 	margin-top: 0;
 	padding: 2px;
 
@@ -196,6 +197,7 @@ section {
 	display: block;
 	margin-top: 10px;
 	margin-left: 0;
+	margin-bottom: 20px;
 }
 
 }
