@@ -1,0 +1,201 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+p {
+	color: white;
+	margin-top: 30px;
+	margin-bottom: 0;
+	padding: 5px;
+
+}
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+h3 {
+	background-color: gray;
+	color: white;
+	text-align: center;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	width: 25%;
+	float: right;
+	font-size: 16px;
+	margin-top: 0;
+	padding: 2px;
+
+}
+
+div.container {
+	position: absolute;
+	left: 5%;
+}
+
+section {
+	background-color: #234D67;
+	display: inline-block;
+	border: 1px solid black;
+	width: 30%;
+}
+
+#chicken {
+
+}
+
+#beef {
+	margin-left: 15px;
+}
+
+#sushi {
+	margin-left: 15px;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+body {
+	font-family: Arial, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+p {
+	color: white;
+	margin-top: 30px;
+	margin-bottom: 0;
+	padding: 5px;
+
+}
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+h3 {
+	background-color: gray;
+	color: white;
+	text-align: center;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	width: 25%;
+	float: right;
+	font-size: 16px;
+	margin-top: 0;
+	padding: 2px;
+
+}
+
+div.container {
+	position: absolute;
+	right: 3%;
+}
+
+section {
+	background-color: #234D67;
+	border: 1px solid black;
+	width: 30%;
+}
+
+#chicken {
+	width: 48%;
+}
+
+#beef {
+	width: 48%;
+}
+
+#sushi {
+	display: block;
+	width: 98.5%;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-left: 0;
+}
+
+}
+
+@media (max-width: 767px) {
+
+body {
+	font-family: Arial, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+p {
+	color: white;
+	margin-top: 30px;
+	margin-bottom: 0;
+	padding: 5px;
+
+}
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+h3 {
+	background-color: gray;
+	color: white;
+	text-align: center;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	width: 25%;
+	float: right;
+	font-size: 16px;
+	margin-top: 0;
+	padding: 2px;
+
+}
+
+div.container {
+	position: absolute;
+	right: 5%;
+}
+
+section {
+	background-color: #234D67;
+	border: 1px solid black;
+	width: 30%;
+}
+
+#chicken {
+	width: 100%;
+}
+
+#beef {
+	width: 100%;
+	display: block;
+	margin-top: 10px;
+	margin-left: 0;
+}	
+
+#sushi {
+	width: 100%;
+	display: block;
+	margin-top: 10px;
+	margin-left: 0;
+}
+
+}
